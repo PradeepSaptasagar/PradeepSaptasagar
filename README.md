@@ -1,150 +1,409 @@
-# Hi, I'm Pradeep 👋
+# Pradeep Saptasagar
 
-### Software Developer | Python & Java | Data Structures & Algorithms
+### Software Development Engineer | AI & Cloud Systems | Python | Java | C/C++ | DSA
 
-I enjoy **building projects, solving programming problems, and learning by writing code**.
+I build software systems across **AI, cloud applications, backend development, automation, data structures, and embedded systems**.
 
-My GitHub is a collection of my learning journey - from Python and Java fundamentals to **Data Structures & Algorithms, LeetCode practice, AI projects, and practical applications**.
+My projects range from AI-powered applications and observability platforms to full-stack systems, algorithmic problem solving, cloud workflows, and electronics research.
 
----
+## Engineering Focus
 
-## 🧑‍💻 About Me
+* Software Development
+* Data Structures & Algorithms
+* Python and Java
+* AI / LLM Applications
+* Backend & Full-Stack Development
+* Cloud Engineering
+* Distributed Systems
+* Developer Tools
+* Embedded Systems
+* Technical Research
 
-* 💻 Interested in **Software Development & Problem Solving**
-* 🐍 Working with **Python**
-* ☕ Learning and building with **Java**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 💡 Building small projects to turn concepts into working software
-* 📚 Continuously learning through hands-on coding
-* 🚀 Exploring **AI, automation, and practical software projects**
+## Technologies
 
----
+**Languages**
 
-## 🛠️ Tech Stack
+Python, Java, C, C++, Bash, SQL
 
-### Languages
+**Software Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+Django, Django REST Framework, React, REST APIs, PostgreSQL
 
-### Core Areas
+**AI / ML**
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=flat)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat\&logo=leetcode\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+Generative AI, LLMs, RAG, LangChain, AI APIs
 
----
+**Cloud & Infrastructure**
 
-## 🚀 Featured Projects
+AWS, Azure, GCP, Docker, Kubernetes, Terraform, GitLab CI/CD
 
-### 🧠 Advance DSA Python
+**Systems & Data**
 
-A hands-on collection of **Data Structures & Algorithms implemented in Python**, covering topics such as:
+Kafka, PostgreSQL, Linux, Prometheus, Grafana
 
+**Embedded & Simulation**
+
+Embedded C, Arduino, RTOS, MATLAB/Simulink, Keysight ADS
+
+## Featured Engineering Projects
+
+### 🌱 PhytoAtlas
+
+AI-powered plant intelligence platform that creates a persistent Plant Passport from plant images, combining identification, health observations, taxonomy, context, timelines, and change detection.
+
+**Next.js | TypeScript | Gemini | PlantNet | Vercel**
+
+### 🔎 IncidentPilot
+
+AI-assisted observability platform combining application telemetry with AI-supported incident investigation.
+
+**OpenTelemetry | SigNoz | FastAPI | React | PostgreSQL | Docker**
+
+### 🧩 Buganizer Platform
+
+Cloud-native engineering platform concept combining issue management, development workflows, infrastructure, analytics, and AI capabilities.
+
+### 💰 Expense Tracker
+
+Full-stack finance application with REST APIs, PostgreSQL persistence, filtering, and a React frontend.
+
+**Python | Django | DRF | React | PostgreSQL**
+
+### ⚡ TitanBot
+
+A programming and game-agent project exploring state representation, decision making, and heuristic strategies.
+
+### 🤖 AI Applications
+
+* Auto Reply AI Chatbot
+* Jarvis Virtual Assistant
+* Gemini-based applications
+
+## Problem Solving
+
+I actively work on Data Structures & Algorithms using Python and Java.
+
+Topics include:
+
+* Arrays and Strings
+* Linked Lists
+* Hashing
 * Recursion
 * Searching
 * Sorting
-* Hashing
-* Doubly Linked Lists
-* LeetCode problems
-* Python problem solving
+* Problem Solving
+* LeetCode
 
-🔗 [View Repository](https://github.com/PradeepSaptasagar/Advance_DSA_Python)
+## Research
 
----
+My research work focuses on **matrix converters, BLDC motor drives, SPWM, power electronics, and MATLAB/Simulink simulation**.
 
-### 🤖 Auto Reply AI Chatbot
+Published research includes work presented at IEEE ICCUBEA 2026.
 
-An AI-powered chatbot built with Python that generates **context-aware replies** and explores practical applications of Natural Language Processing.
+## Current Direction
 
-🔗 [View Repository](https://github.com/PradeepSaptasagar/Auto-Reply-AI-Chatbot)
-
----
-
-### 🗣️ Jarvis Virtual Bot
-
-A Python-based virtual assistant exploring:
-
-* Voice interaction
-* Speech recognition
-* Task automation
-* Desktop assistance
-
-🔗 [View Repository](https://github.com/PradeepSaptasagar/Jarvis_Virtual_Bot)
-
----
-
-### 🐍 Python Learning
-
-A structured collection of Python concepts, practice programs, coding exercises, and hands-on learning.
-
-🔗 [View Repository](https://github.com/PradeepSaptasagar/Python_Learning_Pradeep)
-
----
-
-## 🧠 Problem Solving
-
-I believe the best way to learn programming is to **write code, break things, understand why they broke, and try again**.
-
-My DSA practice focuses on:
+I am focused on becoming a stronger software engineer by combining:
 
 ```text
-Understand the problem
-        ↓
-Choose the right approach
-        ↓
-Implement the solution
-        ↓
-Check edge cases
-        ↓
-Analyze complexity
-        ↓
-Practice again
+Strong Fundamentals
+        +
+Systems Thinking
+        +
+Software Development
+        +
+AI
+        +
+Cloud
+        +
+Continuous Problem Solving
 ```
 
-I'm particularly interested in improving:
+I enjoy understanding systems from first principles and turning ideas into working software.
 
-**Problem Solving → Algorithms → Data Structures → Clean Code → Practical Projects**
+## Connect
+
+GitHub: PradeepSaptasagar
+LinkedIn: Pradeep Saptasagar
+LeetCode: PradeepSaptasagar
+CodeChef: PradeepSaptasagar
 
 ---
 
-## 📚 Currently Learning
+## **Build systems. Solve problems. Keep learning.**
 
-* Data Structures & Algorithms
-* Advanced Python
-* Java & Problem Solving
+# FILE: Advance_DSA_Python/README.md
+
+# Advance DSA Python
+
+A hands-on repository for **Data Structures, Algorithms, Python programming, and systematic problem solving**.
+
+The repository organizes implementations by topic and provides a practical space for understanding algorithms through code.
+
+## Topics
+
+* Data Structures
+* Algorithms
+* Recursion
+* Hashing
+* Linked Lists
+* Searching
+* Sorting
+* Python Programming
 * LeetCode
-* Software Development
-* AI-powered applications
+
+## Repository Structure
+
+```text
+Advance_DSA_Python/
+├── DoublyLinkedList_Extras/
+├── Doubly_Linked_List/
+├── Hashing_Concepts/
+├── LeetcodeSolutions/
+├── PythonProblems/
+├── Recursion/
+├── Searching_Algorithms/
+├── Sorting/
+├── head_tail_recursion.py
+├── leetcode_updates.txt
+└── updates.txt
+```
+
+## Problem-Solving Workflow
+
+```text
+Understand
+    ↓
+Find the pattern
+    ↓
+Choose the data structure
+    ↓
+Implement
+    ↓
+Test edge cases
+    ↓
+Analyze complexity
+    ↓
+Optimize
+```
+
+## Engineering Goals
+
+This repository is used to strengthen:
+
+* Algorithmic thinking
+* Data structure fundamentals
+* Time and space complexity analysis
+* Clean implementation
+* Python fluency
+* Competitive programming skills
+
+## Tech
+
+**Python | DSA | Algorithms | LeetCode**
 
 ---
 
-## 🎯 What I'm Working Towards
+# FILE: BuildwithAI-CyberGiants/README.md
 
-Building a strong foundation in **software development and problem solving** through consistent hands-on practice.
+# PhytoAtlas 🌱
 
-> **Learn → Build → Solve → Improve**
+### AI-powered Plant Intelligence from a Single Leaf
+
+PhytoAtlas transforms a plant image into a persistent **Plant Passport** containing identity, taxonomy, health observations, context, history, and change over time.
+
+The core idea is simple:
+
+> A plant is not a one-time image. It is a changing system with a history.
+
+## What It Does
+
+### Identify
+
+Analyze a plant image and generate plant identity and taxonomy information.
+
+### Understand
+
+Separate visible observations from AI-generated health inference.
+
+### Remember
+
+Maintain a persistent record for a plant across multiple scans.
+
+### Compare
+
+Compare later scans against previous observations.
+
+### Investigate
+
+Ask questions about the plant and its changes.
+
+## Product Flow
+
+```text
+Plant Image
+    ↓
+Identification
+    ↓
+Plant Passport
+    ↓
+Health + Context
+    ↓
+Timeline
+    ↓
+New Scan
+    ↓
+Change Detection
+    ↓
+Investigation
+```
+
+## Technology
+
+* Next.js
+* TypeScript
+* Gemini
+* PlantNet
+* Vercel
+* Browser Storage
+
+## Architecture
+
+```text
+Browser
+   │
+   ▼
+Next.js Application
+   │
+   ├── Scanner
+   ├── Plant Passport
+   ├── Timeline
+   ├── Comparison
+   └── Investigation
+   │
+   ▼
+Server API
+   │
+   ├── PlantNet
+   └── Gemini
+```
+
+API credentials remain server-side.
+
+## Current Capabilities
+
+* Plant identification
+* Taxonomy
+* Health observations
+* Health inference
+* Context reasoning
+* Plant history
+* Scan comparison
+* Investigation chat
+* Demo mode
+* Vercel deployment
+
+## Planned Evolution
+
+* Persistent cloud storage
+* Supabase PostgreSQL
+* Botanical RAG with pgvector
+* Curated evidence sources
+* Weather enrichment
+* Quantitative image-change analysis
+
+## Run Locally
+
+```bash
+npm install
+cp .env.example .env.local
+npm run dev
+```
+
+Environment variables:
+
+```env
+GEMINI_API_KEY=your_key
+PLANTNET_API_KEY=your_optional_key
+```
 
 ---
 
-## 📊 GitHub
+# FILE: expense-tracker/README.md
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepSaptasagar\&show_icons=true\&hide_border=true\&count_private=true)
+# Expense Tracker
 
----
+A full-stack personal finance application built to explore **backend development, REST APIs, database design, and frontend integration**.
 
-## 🤝 Let's Connect
+## Architecture
 
-If you're interested in programming, software development, DSA, or building projects, feel free to connect.
+```text
+React
+  │
+  │ REST
+  ▼
+Django REST Framework
+  │
+  ▼
+PostgreSQL
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-PradeepSaptasagar-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/PradeepSaptasagar)
+## Features
 
-<!-- Replace the LinkedIn URL below with Pradeep's actual LinkedIn profile -->
+* Create expenses
+* Update expenses
+* Delete expenses
+* View expenses
+* Categorize expenses
+* Filter by category
+* Filter by date range
+* Calculate totals
+* Persist data in PostgreSQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+## Technology
 
----
+**Backend**
 
-### 💻 Keep Building. Keep Learning. Keep Solving.
+* Python
+* Django
+* Django REST Framework
+
+**Frontend**
+
+* React
+
+**Database**
+
+* PostgreSQL
+
+## API Design
+
+```text
+GET     /api/expenses/
+POST    /api/expenses/
+GET     /api/expenses/{id}/
+PUT     /api/expenses/{id}/
+DELETE  /api/expenses/{id}/
+```
+
+Filtering is handled through API query parameters rather than requiring the frontend to retrieve and process the entire dataset.
+
+## Engineering Concepts
+
+This project focuses on:
+
+* REST API design
+* CRUD operations
+* Database modelling
+* Backend filtering
+* Frontend/API integration
+* Full-stack application structure
+
+## Tech Stack
+
+```text
+Python
+Django
+Django REST Framework
+React
+PostgreSQL
+```
